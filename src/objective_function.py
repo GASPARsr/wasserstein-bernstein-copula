@@ -1,7 +1,7 @@
 def funcion_objetivo(simulacion, x_conocidos, y_conocidos, K_conocidos, x, y, K_desconocidos_real, lag_value, gamma_reales, w1, w2, w3):
     
     import numpy as np
-    import calcular_vario_exp as cve
+    import variogram as cve
     from sklearn.metrics import mean_squared_error
     from scipy.stats import wasserstein_distance
 

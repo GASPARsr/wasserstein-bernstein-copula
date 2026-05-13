@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Wasserstein-Bernstein Copula Spatial Simulation Framework
+message: If you use this software, please cite it.
+authors:
+  - family-names: Salas-Ruelas
+    given-names: Gaspar
+repository-code: https://github.com/GASPARsr/wasserstein-bernstein-copula
+license: MIT
