@@ -50,6 +50,7 @@ Expected output:
 
 ```text
 Simulation completed successfully
+Objective score: [value]
 Interpolation error: [value]
 Wasserstein distance: [value]
 ```
